@@ -80,7 +80,7 @@ h1 {
 
 .menu-shirt {
    width: auto;
-   height: 80vh;
+   height: 78vh;
    padding: 20px;
    background: rgb(219, 219, 219);
 }
@@ -102,7 +102,7 @@ h1 {
    margin-bottom: 10px;
 }
 
-.box-1:hover {
+.box-1:hover,.box-2:hover{
    transform: scale(1.025);
 }
 
